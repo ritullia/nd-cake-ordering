@@ -13,8 +13,8 @@ body {
     grid-template-columns: 20px 1fr 20px;
     grid-template-areas: '. main .';
     min-height: 100vh;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background: linear-gradient(90deg, #ea587f, #d3473b);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(90deg, #e0406b, #d3473b);
 }
 
 .btn {
